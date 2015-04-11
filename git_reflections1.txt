@@ -1,0 +1,5 @@
+this is the first line of my git test
+
+How can you use the commands git log and git diff to view the history of files?
+
+log will display the change sets, diff will tell the difference between two sets

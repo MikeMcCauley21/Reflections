@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+  -it creates the version info in the .git folder
+  -it is the base for using this folder as a repositiory
